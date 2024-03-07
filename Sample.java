@@ -3,9 +3,11 @@ public class Sample
 
 public static void main(String[] args)
 {
-    System.out.println(5+5);
-    System.out.println(10-5);
-    System.out.println(5*5);
-    System.out.println(10/5);
+    int a=5, b=10;
+    System.out.println(a+a);
+    System.out.println(b-a);
+    System.out.println(a*a);
+    System.out.println(b/a);
+    System.out.println("Program end");
 }
 }
