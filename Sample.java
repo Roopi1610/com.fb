@@ -29,6 +29,11 @@ public class Sample
 
 public static void main(String[] args)
 {
+    Sample s = new Sample();
+    s.add();
+    s.sub();
+    s.mul();
+    s.div();
     System.out.println("Program end");
 }
 }
